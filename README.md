@@ -79,7 +79,9 @@ Fonts used:
 
 ## 📸 Preview Screenshot
 
-> (You can add a screenshot here showing a sample book being generated.)
+![image](https://github.com/user-attachments/assets/12814a56-7329-4523-aa63-0dc201c365e4)
+![Screenshot (262)](https://github.com/user-attachments/assets/3917b995-d3b0-4c0c-934e-9d8ffae87f9a)
+
 
 ---
 
